@@ -1,0 +1,2 @@
+# AplikacjeKonsolowe
+gejmers gona gejm
