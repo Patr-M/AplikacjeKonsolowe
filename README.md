@@ -1,2 +1,2 @@
 # AplikacjeKonsolowe
-gejmers gona gejm
+oddaje zadania bardzo ładnie
